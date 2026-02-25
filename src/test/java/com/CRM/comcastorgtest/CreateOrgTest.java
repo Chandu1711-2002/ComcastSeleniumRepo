@@ -12,6 +12,7 @@ public class CreateOrgTest extends BaseClass{
 	
 	
 	
+	
 	@Test
 	public void createOrgWithIndustry() {
 		System.out.println("excute create org with industry");
