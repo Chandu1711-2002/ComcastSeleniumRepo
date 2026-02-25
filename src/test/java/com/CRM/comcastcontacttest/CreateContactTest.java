@@ -9,6 +9,10 @@ public class CreateContactTest extends BaseClass{
 	public void createContact() {
 		System.out.println("execute create contact");
 	}
+	@Test
+	public void createContact1() {
+		System.out.println("execute create contact 1");
+	}
 	
 	
 	@Test
