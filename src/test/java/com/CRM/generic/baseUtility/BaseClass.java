@@ -11,6 +11,7 @@ public class BaseClass {
 	@BeforeSuite
 	public void configBeforeSuite() {
 		System.out.println("connect to DB,report config");
+		
 	}
 
 	

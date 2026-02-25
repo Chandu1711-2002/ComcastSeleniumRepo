@@ -9,6 +9,10 @@ public class CreateOrgTest extends BaseClass{
 	public void createOrg() {
 		System.out.println("execute create org");
 	}
+	@Test
+	public void createOrg2() {
+		System.out.println("execute create orggit");
+	}
 	
 	
 	
